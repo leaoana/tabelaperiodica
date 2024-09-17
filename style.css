@@ -1,0 +1,41 @@
+table { width: 100%;
+height: 100%;
+text-align: center;}
+
+body{ height: 900px;}
+
+#tdtittle {font-size: 32px;}
+
+.nao_metal{background-color: greenyellow;}
+
+.semi_metais{background-color: rgb(130, 163, 153);}
+
+.metais_alcalinos{background-color: orange;}
+
+.metais_alcalinos_terrosos{background-color: yellow;}
+
+.metais_transicao{background-color: salmon;}
+
+.outros_metais{background-color: lightblue;}
+
+.halogenios{background-color: rgb(61, 173, 248);}
+
+.gases_nobres{background-color: rgb(0, 81, 255);}
+
+.lantanideos{background-color: rgb(152, 248, 248);}
+
+.actinidios{background-color: plum;}
+
+.numbers{background-color: beige;}
+
+.natomico{text-align: start;}
+
+.letra{font-weight: bold;}
+
+#tr1{height: 50px;}
+
+#tr2{height: 80px;}
+
+#tr3{height: 80px;}
+
+.familia{background-color: lightgray;}
